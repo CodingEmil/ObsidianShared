@@ -14,7 +14,7 @@ Gehen wir aber nun aus unserem Netzwerk hinaus, über den Router, dann ist die Z
     Gibt das endgültige Ziel an, den ein Paket erreichen soll (Ende-zu-Ende)
 
 !!! note "MAC-Adresse"
-Gibt den nächsten Host an, den ein Paket erreichen soll (Punkt-zu-Punkt)
+    Gibt den nächsten Host an, den ein Paket erreichen soll (Punkt-zu-Punkt)
 
 !!! note
     Test 22
