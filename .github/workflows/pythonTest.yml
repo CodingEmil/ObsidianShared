@@ -3,7 +3,7 @@ name: Replace Code Blocks
 on:
   push:
     branches:
-      - main  # Hier den Namen deiner Haupt-Branch angeben
+      - main  # Hier den Namen deiner Haupt-Branch angebe
 
 jobs:
   replace-code-blocks:
