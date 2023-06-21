@@ -16,6 +16,7 @@ def replace_code_blocks_in_directory(directory):
         for file in files:
             if file.endswith(".md"):
                 file_path = os.path.join(root, file)
+                print(file_path)
                 replace_code_blocks(file_path)
 
 # Beispielaufruf
