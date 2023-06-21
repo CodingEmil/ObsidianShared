@@ -3,6 +3,3 @@ Dieser Etagenswitch wird dann mit Gebäudeswitches verbunden. Diese Verbindung h
 Die Gebäude untereinander werden eigentlich nur noch mit Glasfaser verbunden (100GBit/s, 100GBASE-FR1).
 ![[Pasted image 20230619171236.png]]
 
-Test
-$\color{red}T$
-fd
