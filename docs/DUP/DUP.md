@@ -1,4 +1,3 @@
-[[Fragen - DUP]] <br>
 Vorlesung 1: [[Strukturierte Verkabelung]] <br>
 [[Twisted-Pair-Kabel]] <br>
 [[Kategorien von Twisted-Pair-Kabeln (Cat)]] <br>
