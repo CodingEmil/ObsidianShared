@@ -23,3 +23,5 @@ ${\color{blue}F}$
 $$\color{blue}F$$
 
 $\textcolor{red}{text}$
+
+${\color{red} x} + {\color{blue} y}$
