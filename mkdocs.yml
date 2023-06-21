@@ -7,20 +7,20 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: orange
+      primary: deep orange
       accent: indigo
       toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
+        icon: material/lightbulb-outline
+        name: Dark
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: orange
+      primary: deep orange
       accent: blue
       toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+        icon: material/lightbulb
+        name: Light
 
 # Extensions
 markdown_extensions:
