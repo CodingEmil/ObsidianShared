@@ -6,7 +6,7 @@ def replace_code_blocks(file_path):
         content = f.read()
 
     pattern = r'```ad-.*?\n(.*?)```'
-    updated_content = re.sub(pattern, r'!!! note\n\t\1', content, flags=re.DOTALL)
+    updated_content = re.sub(pattern, r'!!! note\n    \1', content, flags=re.DOTALL)
 
     with open(file_path, 'w') as f:
         f.write(updated_content)
