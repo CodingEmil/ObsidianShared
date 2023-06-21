@@ -12,7 +12,7 @@
 </head>
 <body>
   <h1>Willkommen auf meiner Notiz-Homepage</h1>
-  <p>Hier kannst du deine Notizen organisieren und verwalten.</p>
+
   <!-- Weitere Inhalte oder Abschnitte hier hinzufügen -->
 </body>
 </html>
