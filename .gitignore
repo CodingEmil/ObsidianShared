@@ -3,3 +3,5 @@
 .trash/
 .DS_Store
 docs/.obsidian/*
+./docs/.obsidian/*
+/docs/.obsidian/*
