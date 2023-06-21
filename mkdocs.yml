@@ -3,7 +3,7 @@ site_name: Emils Notes
 theme:
     name: 'material'
     font:
-      text: Roboto Condensed
+      text: Ubuntu #Roboto Condensed
     palette:
 
     # Light mode
