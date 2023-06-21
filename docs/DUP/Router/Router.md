@@ -15,3 +15,7 @@ Gehen wir aber nun aus unserem Netzwerk hinaus, über den Router, dann ist die Z
 
 >[!callout] Ziel-MAC (Punkt-zu-Punkt)
 >Gibt den nächsten Host an, den ein Paket erreichen soll (Punkt-zu-Punkt)
+
+
+!!! note
+    Gibt as endgültige Ziel an, den ein Paket erreichen soll (Ende-zu-Ende)
