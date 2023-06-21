@@ -1,22 +1,24 @@
 import os
+import re
 
-def replace_text_in_files(directory, file_extension, search_text, replace_text):
+def replace_code_blocks(file_path):
+    with open(file_path, 'r') as f:
+        content = f.read()
+
+    pattern = r'``` ad-.*?\n(.*?)```'
+    updated_content = re.sub(pattern, r'!!! note\n\1', content, flags=re.DOTALL)
+
+    with open(file_path, 'w') as f:
+        f.write(updated_content)
+
+def replace_code_blocks_in_directory(directory):
     for root, dirs, files in os.walk(directory):
         for file in files:
-            if file.endswith(file_extension):
+            if file.endswith(".md"):
                 file_path = os.path.join(root, file)
-                with open(file_path, 'r') as f:
-                    content = f.read()
-                if search_text in content:
-                    content = content.replace(search_text, replace_text)
-                    with open(file_path, 'w') as f:
-                        f.write(content)
-                        print(f"Text ersetzt in Datei: {file_path}")
+                replace_code_blocks(file_path)
 
 # Beispielaufruf
-directory_path = "/pfad/zum/verzeichnis"
-file_extension = ".md"
-search_text = "title: Ziel-MAC (Punkt-zu-Punkt)\nGibt den nächsten Host an, den ein Paket erreichen soll (Punkt-zu-Punkt)"
-replace_text = "!!! note\ntitle: Ziel-MAC (Punkt-zu-Punkt)\nGibt den nächsten Host an, den ein Paket erreichen soll (Punkt-zu-Punkt)"
+directory_path = "docs"
 
-replace_text_in_files(directory_path, file_extension, search_text, replace_text)
+replace_code_blocks_in_directory(directory_path)
