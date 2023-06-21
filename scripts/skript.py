@@ -6,5 +6,5 @@ def list_files(directory):
             print(os.path.join(root, file))
 
 # Beispielaufruf
-directory_path = "docs/DUP"
+directory_path = "docs"
 list_files(directory_path)
