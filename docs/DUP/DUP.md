@@ -19,3 +19,5 @@ $f(x)=g_{3x}$
 $$f(x)=g_{3x}$$
 
 $\color{blue}F$
+
+$$\color{blue}F$$
