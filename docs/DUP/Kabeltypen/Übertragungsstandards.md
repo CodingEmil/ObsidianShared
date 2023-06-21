@@ -1,8 +1,8 @@
 #### Aufbau
-$\color{red}1000\color{lightblue}BASE-\color{green}T$
-$\color{red}Geschwindigkeit$
-$\color{lightblue}Basisband$
-$\color{green}Leitungstyp$
+$\color{red}1000\color{lightblue}BASE-\color{green}T$ <br>
+$\color{red}Geschwindigkeit$ <br>
+$\color{lightblue}Basisband$ <br>
+$\color{green}Leitungstyp$ <br>
 
 T = Twisted Pair
 FL = Glasfaser (Fiber Link)
