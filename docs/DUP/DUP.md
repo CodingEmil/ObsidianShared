@@ -14,3 +14,6 @@ Vorlesung 3: [[ARP - Address Resolution Protocol]]
 Vorlesung 4: [[Switch]]
 Vorlesung 5: [[DHCP]]
 Vorlesung 6: [[Router]]
+$f(x)=R_{Yx}$
+
+$$f(x)=R_{Yx}$$
