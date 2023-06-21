@@ -3,7 +3,7 @@ name: Replace Code Blocks
 on:
   push:
     branches:
-      - main  # Hier den Namen deiner Haupt-Branch angeben
+      - main  # Hier den Namen deiner Haupt-Branch angebe
 
 jobs:
   replace-code-blocks:
@@ -26,19 +26,10 @@ jobs:
         run: |
           python scripts/skript.py  # Hier den Namen deines Python-Skripts angeben
 
-      - name: Check for Changes
-        id: check_changes
-        run: |
-          git diff --quiet || echo "Changes detected"
-      
       - name: Commit Changes
         run: |
-          if [ -n "${{ steps.check_changes.outputs.stdout }}" ]; then
-            git config --local user.email "action@github.com"
-            git config --local user.name "GitHub Action"
-            git add -A
-            git commit -m "Replace code blocks"
-            git push
-          else
-            echo "No changes to commit"
-          fi
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Replace code blocks"
+          git push
