@@ -10,10 +10,10 @@ Ein Beispiel für ein Default Gateway ist der Router, der mit dem lokalen Netzwe
 Haben wir Pakete im lokalen Netz, dann ist die Ziel-MAC und Ziel-IP von dem gleichen Gerät.
 Gehen wir aber nun aus unserem Netzwerk hinaus, über den Router, dann ist die Ziel-IP, die von dem eigentlichen Ziel (z.B. Website) und die Ziel-MAC, die von unserem Router.
 
-!!! note
-    Gibt as endgültige Ziel an, den ein Paket erreichen soll (Ende-zu-Ende)
+!!! note "IP-Adresse"
+    Gibt das endgültige Ziel an, den ein Paket erreichen soll (Ende-zu-Ende)
 
-!!! note
+!!! note "MAC-Adresse"
 Gibt den nächsten Host an, den ein Paket erreichen soll (Punkt-zu-Punkt)
 
 !!! note
