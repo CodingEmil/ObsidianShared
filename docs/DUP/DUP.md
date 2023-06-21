@@ -17,3 +17,5 @@ Vorlesung 6: [[Router]] <br>
 $f(x)=g_{3x}$
 
 $$f(x)=g_{3x}$$
+
+$\color{blue}F$
