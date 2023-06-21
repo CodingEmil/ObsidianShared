@@ -16,6 +16,6 @@ Gehen wir aber nun aus unserem Netzwerk hinaus, über den Router, dann ist die Z
 !!! note
 Gibt den nächsten Host an, den ein Paket erreichen soll (Punkt-zu-Punkt)
 
-```ad-hint
+!!! note
 Test
-```
+
