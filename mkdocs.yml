@@ -1,4 +1,5 @@
 site_name: Emils Notes
+site_author: Emil Horstmann
 
 theme:
     name: 'material'
