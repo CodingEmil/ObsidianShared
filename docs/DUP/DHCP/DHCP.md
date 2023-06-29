@@ -9,6 +9,9 @@ Ein DHCP-Server vergibt automatisch IP-Adressen, aus festgelegten Adress-Pools, 
 4. **DHCP-Acknowledge**
 	DHCP-Server broadcastet eine Bestätigung.
 
+![[dhcp.png]]
+
 #### Lease-Time
 Die Lease-Time ist die Zeit, wie lange ein Host die gleiche IP-Adressen, von dem DHCP-Server, bekommt. Steht hier 2 Monate, dann würde der Host erst nach 2 Monaten eine neue IP Adresse bekommen.
 Diese Zeit kann man im DHCP-Server konfigurieren.
+
