@@ -4,11 +4,11 @@ $\color{red}Geschwindigkeit$ <br>
 $\color{lightblue}Basisband$ <br>
 $\color{green}Leitungstyp$ <br>
 
-T = Twisted Pair
-FL = Glasfaser (Fiber Link)
-SX = Multimode-Glasfaser mit kurzwelligem Licht (Short Wavelength Extended)
-LX = Singlemode- oder Multimode-Glasfaser mit langwelligem Licht (Long Wavelength Extended)
-SR = spezifische Art von Multimodeübertragung, für kurze Reichweiten (Short Reach)
+T = Twisted Pair <br>
+FL = Glasfaser (Fiber Link) <br>
+SX = Multimode-Glasfaser mit kurzwelligem Licht (Short Wavelength Extended) <br>
+LX = Singlemode- oder Multimode-Glasfaser mit langwelligem Licht (Long Wavelength Extended) <br>
+SR = spezifische Art von Multimodeübertragung, für kurze Reichweiten (Short Reach) <br>
 LR = spezifische Art von Singlemodeübertragung, für größere Reichweiten (Long Reach)
 
 | Typ         | Bedeutung                                    |
