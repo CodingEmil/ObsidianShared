@@ -148,9 +148,10 @@
   },
   "active": "06c332c72392dde9",
   "lastOpenFiles": [
-    "dhcp.png",
     "DUP/DUP.md",
     "DUP/Topologie.md",
+    "DUP/DHCP/DHCP.md",
+    "DUP/attachments/dhcp.png",
     "index.md",
     "DUP/ARP/VorlesungARP.pdf"
   ]
