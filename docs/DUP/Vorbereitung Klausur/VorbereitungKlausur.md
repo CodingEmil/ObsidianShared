@@ -66,19 +66,25 @@ d) Unser gegebener IP-Adressbereich fängt bei 192.170.0.0 an.
 
 192.170.128.0
 
-![[Aufgabe2.pdf]]
+![[Pasted image 20230706192720.png]]
 
 ### 3) Ergänzende Aufgaben zum Subnetting
 a) <u>Netzadressen im 255.255.255.224 Netz:</u> 0, 32, 64, $\color{red}96$, 128, 160, ...
+
 Beide PCs sind im 4ten Subnetz (192.168.222.96/27 ($\color{red}192.168.222.96-192.168.222.127$))
+
 b) <u>Netzadressen im 255.255.255.240:</u> 0, $\color{violet}16$, $\color{green}32$, 48, ...
+
 PC1 ist im 2ten Subnetz und PC2 im 3ten, somit sind sie in unterschiedlichen Subnetzen.
 
 ### 4) VLANs
 a) 
 - IP-Adressen + Subnetzmaske an ==Subinterfaces== vergeben
+- 
 - Encapsulation: Zuordnung von Subinterface zu VLAN-ID
+- 
 - Falls DHCP-Relay genutzt werden soll: Helper-Adresse konfigurieren
+- 
 - Interface einschalten
 
 b)
@@ -98,8 +104,11 @@ Die beiden Gigabitverbindungen sind zwar im trunk mode, allerdings sind nur VLAN
 
 ### 16)
 - Ein möglicher Fehler ist, dass in diesem Host, keine ==Gateway-IP== vergeben wird und dieser somit nicht der Router findet. 
+- 
 	  Dazu könnte man sich einfach der Netzwerkkonfigurationen auf dem Host anschauen und gucken, ob die richtige bzw. überhaupt eine Gateway IP vergeben wurde.
+	  
 - ==Firewall:== Blockierte Ports/IPs
+- 
 		Dazu muss man sich die Firewall-settings anschauen
 ### 17)
 ![[Pasted image 20230706142518.png]]
