@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DUP/Vorbereitung Klausur/VorbereitungKlausur.md",
+                "file": "DUP/VLANs/PT Beispiel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DUP/Vorbereitung Klausur/VorbereitungKlausur.md",
+                "file": "DUP/VLANs/PT Beispiel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DUP/Vorbereitung Klausur/VorbereitungKlausur.md",
+                "file": "DUP/VLANs/PT Beispiel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DUP/Vorbereitung Klausur/VorbereitungKlausur.md"
+                "file": "DUP/VLANs/PT Beispiel.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06c332c72392dde9",
+  "active": "cd1f66b8182012d3",
   "lastOpenFiles": [
+    "DUP/Vorbereitung Klausur/VorbereitungKlausur.md",
     "DUP/Vorbereitung Klausur/attachments/Pasted image 20230706192720.png",
     "DUP/OSI-Modell/3. Schicht Vermittlungsschicht, Network-Layer.md",
     "DUP/ARP/ARP - Address Resolution Protocol.md",
@@ -157,7 +158,6 @@
     "DUP/Kabeltypen/Kategorien von Twisted-Pair-Kabeln (Cat).md",
     "DUP/Kabeltypen/Glasfaser.md",
     "DUP/Topologie.md",
-    "DUP/Vorbereitung Klausur/VorbereitungKlausur.md",
     "DUP/VLANs/VorlesungVLANs.pdf",
     "DUP/VLANs/VLANs.md",
     "DUP/VLANs/PT Beispiel.md",
