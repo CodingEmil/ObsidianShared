@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DUP/DHCP/DHCP.md",
+                "file": "DUP/DUP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DUP/DHCP/DHCP.md",
+                "file": "DUP/DUP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DUP/DHCP/DHCP.md",
+                "file": "DUP/DUP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DUP/DHCP/DHCP.md"
+                "file": "DUP/DUP.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "06c332c72392dde9",
   "lastOpenFiles": [
-    "DUP/DUP.md",
     "DUP/Topologie.md",
     "DUP/DHCP/DHCP.md",
+    "DUP/DUP.md",
     "DUP/attachments/dhcp.png",
     "index.md",
     "DUP/ARP/VorlesungARP.pdf"

@@ -4,7 +4,7 @@
 [[Glasfaser]]<br>
 [[Übertragungsstandards]]<br>
 [[Topologie]]<br>
-Vorlesung 2: [[Struktur des OSI-Modells]]<br>
+[[Struktur des OSI-Modells]]<br>
 	[[1. Schicht Bitübertragungsschicht, Physical-Layer]]<br>
 	[[2. Schicht Sicherungsschicht, Data Link Layer]]<br>
 	[[3. Schicht Vermittlungsschicht, Network-Layer]]<br>
