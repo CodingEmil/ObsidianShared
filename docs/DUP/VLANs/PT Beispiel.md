@@ -1,6 +1,6 @@
 [[https://github.com/CodingEmil/ObsidianShared/blob/main/docs/DUP/VLANs/attachments/PT_VLAN.pkt]]
 
-
+	[]
 
 ![[Pasted image 20230706170728.png]]
 
