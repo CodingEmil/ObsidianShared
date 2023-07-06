@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DUP/DUP.md",
+                "file": "DUP/Kabeltypen/Glasfaser.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DUP/DUP.md",
+                "file": "DUP/Kabeltypen/Glasfaser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DUP/DUP.md",
+                "file": "DUP/Kabeltypen/Glasfaser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DUP/DUP.md"
+                "file": "DUP/Kabeltypen/Glasfaser.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "06c332c72392dde9",
   "lastOpenFiles": [
+    "DUP/DUP.md",
     "DUP/Topologie.md",
     "DUP/DHCP/DHCP.md",
-    "DUP/DUP.md",
     "DUP/attachments/dhcp.png",
     "index.md",
     "DUP/ARP/VorlesungARP.pdf"

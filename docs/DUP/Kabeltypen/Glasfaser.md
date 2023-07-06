@@ -1,6 +1,6 @@
 - **ohne Verstärkung**: 10km-120km
 - **mit Verstärkung**: 1000km
-![[Pasted image 20230619163857.png|250]]
+![[Pasted image 20230619163857.png]]
 Bei der Übertragung mit Glasfaser werden Lichtsignale verwendet, um Daten über große Entfernungen zu senden. Glasfaserkabel bestehen aus einem dünnen Glas- oder Kunststoffkern, der von einer Schicht aus reflektierendem Material umgeben ist, das als Cladding bezeichnet wird. Diese Struktur ermöglicht die interne Reflexion des Lichts, wodurch die Signale über die Faser geleitet werden können.
 
 Es gibt zwei Hauptarten von Glasfasern: Singlemode und Multimode.
