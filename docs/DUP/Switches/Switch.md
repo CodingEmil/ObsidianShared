@@ -1,7 +1,7 @@
 !!! note
     - Layer 1 und 2
-- gibt auch Layer 3 Switches (Multilayerswitches) 
-- parallele Übertragung (Gegensatz zum Hub)
+	- gibt auch Layer 3 Switches (Multilayerswitches) 
+	- parallele Übertragung (Gegensatz zum Hub)
 
 
 

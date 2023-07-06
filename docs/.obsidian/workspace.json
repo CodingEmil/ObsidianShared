@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DUP/OSI-Modell/2. Schicht Sicherungsschicht, Data Link Layer.md",
+                "file": "DUP/Switches/Switch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DUP/OSI-Modell/2. Schicht Sicherungsschicht, Data Link Layer.md",
+                "file": "DUP/Switches/Switch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DUP/OSI-Modell/2. Schicht Sicherungsschicht, Data Link Layer.md",
+                "file": "DUP/Switches/Switch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DUP/OSI-Modell/2. Schicht Sicherungsschicht, Data Link Layer.md"
+                "file": "DUP/Switches/Switch.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "06c332c72392dde9",
   "lastOpenFiles": [
+    "DUP/Strukturierte Verkabelung/Strukturierte Verkabelung.md",
+    "DUP/OSI-Modell/Struktur des OSI-Modells.md",
+    "DUP/OSI-Modell/Schachtelung - TCP IP-Modell.md",
+    "DUP/OSI-Modell/3. Schicht Vermittlungsschicht, Network-Layer.md",
+    "DUP/OSI-Modell/2. Schicht Sicherungsschicht, Data Link Layer.md",
     "DUP/OSI-Modell/1. Schicht Bitübertragungsschicht, Physical-Layer.md",
     "DUP/Router/Router.md",
     "DUP/Kabeltypen/Glasfaser.md",
