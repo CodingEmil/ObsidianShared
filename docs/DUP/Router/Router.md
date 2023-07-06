@@ -13,11 +13,9 @@ Haben wir Pakete im lokalen Netz, dann ist die Ziel-MAC und Ziel-IP von dem glei
 Gehen wir aber nun aus unserem Netzwerk hinaus, über den Router, dann ist die Ziel-IP, die von dem eigentlichen Ziel (z.B. Website) und die Ziel-MAC, die von unserem Router.
 
 !!! note
-    title: Ziel-IP (Ende-zu-Ende)
-Gibt das endgültige Ziel an, den ein Paket erreichen soll (Ende-zu-Ende)
+	Gibt das endgültige Ziel an, den ein Paket erreichen soll (Ende-zu-Ende)
 
 
 !!! note
-    title: Ziel-MAC (Punkt-zu-Punkt)
-Gibt den nächsten Host an, den ein Paket erreichen soll (Punkt-zu-Punkt)
+	Gibt den nächsten Host an, den ein Paket erreichen soll (Punkt-zu-Punkt)
 

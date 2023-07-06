@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DUP/Kabeltypen/Glasfaser.md",
+                "file": "DUP/OSI-Modell/2. Schicht Sicherungsschicht, Data Link Layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DUP/Kabeltypen/Glasfaser.md",
+                "file": "DUP/OSI-Modell/2. Schicht Sicherungsschicht, Data Link Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DUP/Kabeltypen/Glasfaser.md",
+                "file": "DUP/OSI-Modell/2. Schicht Sicherungsschicht, Data Link Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DUP/Kabeltypen/Glasfaser.md"
+                "file": "DUP/OSI-Modell/2. Schicht Sicherungsschicht, Data Link Layer.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "06c332c72392dde9",
   "lastOpenFiles": [
+    "DUP/OSI-Modell/1. Schicht Bitübertragungsschicht, Physical-Layer.md",
+    "DUP/Router/Router.md",
+    "DUP/Kabeltypen/Glasfaser.md",
     "DUP/DUP.md",
     "DUP/Topologie.md",
     "DUP/DHCP/DHCP.md",
