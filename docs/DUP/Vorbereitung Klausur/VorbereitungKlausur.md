@@ -104,11 +104,8 @@ Die beiden Gigabitverbindungen sind zwar im trunk mode, allerdings sind nur VLAN
 
 ### 16)
 - Ein möglicher Fehler ist, dass in diesem Host, keine ==Gateway-IP== vergeben wird und dieser somit nicht der Router findet. 
-- 
-	  Dazu könnte man sich einfach der Netzwerkkonfigurationen auf dem Host anschauen und gucken, ob die richtige bzw. überhaupt eine Gateway IP vergeben wurde.
-	  
+	- Dazu könnte man sich einfach der Netzwerkkonfigurationen auf dem Host anschauen und gucken, ob die richtige bzw. überhaupt eine Gateway IP vergeben wurde.  
 - ==Firewall:== Blockierte Ports/IPs
-- 
-		Dazu muss man sich die Firewall-settings anschauen
+	- Dazu muss man sich die Firewall-Settings anschauen
 ### 17)
 ![[Pasted image 20230706142518.png]]
