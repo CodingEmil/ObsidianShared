@@ -48,14 +48,22 @@ l) Die Geräte können auch nicht kommunizieren, da sie wieder in unterschiedlic
 ### 2) Unterteilung eines IP-Bereiches in verschiedene Subnetze
 d) Unser gegebener IP-Adressbereich fängt bei 192.170.0.0 an.
 
-192.170.0.0/19 <br>
-<--> *Netz A*<br>
-192.170.32.0/19<br>
+192.170.0.0/19
+
+<--> *Netz A*
+
+192.170.32.0/19
+
 <--> *Netz B*
+
 192.170.64.0/19
+
 <--> *Netz C*
+
 192.170.96.0/19
+
 <--> *Netz D*
+
 192.170.128.0
 
 ![[Pasted image 20230706192720.png]]
