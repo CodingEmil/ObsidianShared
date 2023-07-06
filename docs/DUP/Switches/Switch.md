@@ -1,8 +1,8 @@
-```ad-hint
-- Layer 1 und 2
+!!! note
+    - Layer 1 und 2
 - gibt auch Layer 3 Switches (Multilayerswitches) 
 - parallele Übertragung (Gegensatz zum Hub)
-```
+
 
 
 An einem Switch werden alle Netzwerkgeräte angeschlossen, auch andere Switches. Der Switch erzeugt eine [[Topologie|Sterntopologie]].
