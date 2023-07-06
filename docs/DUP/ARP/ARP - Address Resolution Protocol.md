@@ -1,5 +1,9 @@
-ARP ist ein Netzwerkprotokoll, welches in der Netzwerkschicht (3. Schicht) benutzt wird. ARP ermöglicht die Zuordnung von IP Adressen zu MAC-Adressen.
-Die Hauptfunktion in ARP besteht darin, die MAC-Adresse einer bekannten IP-Adresse zu ermitteln. Den ohne der MAC-Adresse, können keine Daten zu einem anderen Gerät übertragen werden.
+ARP ermöglicht die Zuordnung von IP Adressen zu MAC-Adressen.
+Die Hauptfunktion in ARP besteht darin, die MAC-Adresse einer bekannten IP-Adresse zu ermitteln. Denn ohne der MAC-Adresse, können keine Daten zu einem anderen Gerät übertragen werden.
+
+1. Hosts sendet **ARP-Request** mit FF-FF-FF-FF-FF-FF. Jedes Gerät kriegt dieses Paket.  
+2. In dem Ethernet-Frame steht nun die gesuchte IP.  
+3. Wird der Hosts, mit dieser IP, gefunden, schickt er eine **ARP-Replay**.
 
 #### ARP-Table
 Jeder Host hat eine ARP-Tabelle, in welcher IP-Adressen zu MAC-Adressen zugeordnet sind.

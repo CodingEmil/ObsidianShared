@@ -1,7 +1,9 @@
->[!info] 
->- Layer 1 und 2
->- gibt auch Layer 3 Switches (Multilayerswitches) 
->- parallele Übertragung (Gegensatz zum Hub)
+```ad-hint
+- Layer 1 und 2
+- gibt auch Layer 3 Switches (Multilayerswitches) 
+- parallele Übertragung (Gegensatz zum Hub)
+```
+
 
 An einem Switch werden alle Netzwerkgeräte angeschlossen, auch andere Switches. Der Switch erzeugt eine [[Topologie|Sterntopologie]].
 Der Switch schaltet Datenverkehr anhand von Ziel-MAC-Adressen (im Ethernetframe).
