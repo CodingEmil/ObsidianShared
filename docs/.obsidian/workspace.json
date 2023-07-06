@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DUP/Switches/Switch.md",
+                "file": "DUP/OSI-Modell/3. Schicht Vermittlungsschicht, Network-Layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DUP/Switches/Switch.md",
+                "file": "DUP/OSI-Modell/3. Schicht Vermittlungsschicht, Network-Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DUP/Switches/Switch.md",
+                "file": "DUP/OSI-Modell/3. Schicht Vermittlungsschicht, Network-Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DUP/Switches/Switch.md"
+                "file": "DUP/OSI-Modell/3. Schicht Vermittlungsschicht, Network-Layer.md"
               }
             }
           }
@@ -148,6 +148,19 @@
   },
   "active": "06c332c72392dde9",
   "lastOpenFiles": [
+    "DUP/ARP/ARP - Address Resolution Protocol.md",
+    "DUP/DHCP/DHCP.md",
+    "DUP/Kabeltypen/Twisted-Pair-Kabel.md",
+    "DUP/Kabeltypen/Übertragungsstandards.md",
+    "DUP/Kabeltypen/Kategorien von Twisted-Pair-Kabeln (Cat).md",
+    "DUP/Kabeltypen/Glasfaser.md",
+    "DUP/Topologie.md",
+    "DUP/Vorbereitung Klausur/VorbereitungKlausur.md",
+    "DUP/VLANs/VorlesungVLANs.pdf",
+    "DUP/VLANs/VLANs.md",
+    "DUP/VLANs/PT Beispiel.md",
+    "DUP/Übungen/OSI 1-3 - Paketadressierung 3 Router.pdf",
+    "DUP/Switches/Switch.md",
     "DUP/Strukturierte Verkabelung/Strukturierte Verkabelung.md",
     "DUP/OSI-Modell/Struktur des OSI-Modells.md",
     "DUP/OSI-Modell/Schachtelung - TCP IP-Modell.md",
@@ -155,10 +168,7 @@
     "DUP/OSI-Modell/2. Schicht Sicherungsschicht, Data Link Layer.md",
     "DUP/OSI-Modell/1. Schicht Bitübertragungsschicht, Physical-Layer.md",
     "DUP/Router/Router.md",
-    "DUP/Kabeltypen/Glasfaser.md",
     "DUP/DUP.md",
-    "DUP/Topologie.md",
-    "DUP/DHCP/DHCP.md",
     "DUP/attachments/dhcp.png",
     "index.md",
     "DUP/ARP/VorlesungARP.pdf"
