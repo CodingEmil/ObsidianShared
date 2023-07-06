@@ -1,6 +1,6 @@
-```ad-hint
-Arbeitet auf Layer 3
-```
+!!! note
+    Arbeitet auf Layer 3
+
 
 Verschiedene Netzwerke werden über Router miteinander verbunden. Ein Router arbeitet auf Layer 3, kommuniziert also mit IP-Adressen.
 
@@ -12,12 +12,12 @@ Ein Beispiel für ein Default Gateway ist der Router, der mit dem lokalen Netzwe
 Haben wir Pakete im lokalen Netz, dann ist die Ziel-MAC und Ziel-IP von dem gleichen Gerät.
 Gehen wir aber nun aus unserem Netzwerk hinaus, über den Router, dann ist die Ziel-IP, die von dem eigentlichen Ziel (z.B. Website) und die Ziel-MAC, die von unserem Router.
 
-```ad-hint
-title: Ziel-IP (Ende-zu-Ende)
+!!! note
+    title: Ziel-IP (Ende-zu-Ende)
 Gibt das endgültige Ziel an, den ein Paket erreichen soll (Ende-zu-Ende)
-```
 
-```ad-hint
-title: Ziel-MAC (Punkt-zu-Punkt)
+
+!!! note
+    title: Ziel-MAC (Punkt-zu-Punkt)
 Gibt den nächsten Host an, den ein Paket erreichen soll (Punkt-zu-Punkt)
-```
+
