@@ -4,11 +4,11 @@
 	- ARM Cortex M0 (auf einem Arduino Due (grün))
 - Erweitern mit Sensoren/Aktoren durch Grove-Starter Kit
 
-```ad-info
-title: Eingangsspannung
+!!! note
+    title: Eingangsspannung
 - Rotes Board -> 5V
 - Grünes Board -> 3,3V
-```
+
 
 ### Durchführung
 1. IDE laden, verschieben und Ausführungsberechtigungen verteilen
