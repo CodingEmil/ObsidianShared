@@ -1,2 +1,2 @@
-[[Praktikum]]
-[[Vorlesung]]
+[[Praktikum]] <br>
+[[Vorlesung]] <br>
